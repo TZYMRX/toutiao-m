@@ -15,6 +15,8 @@ import 'amfe-flexible'
 
 Vue.use(Vant)
 
+// 时间格式化
+import '../src/utils/day'
 
 Vue.config.productionTip = false
 
